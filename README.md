@@ -15,9 +15,9 @@
         </li>
         <li>
  <h2> Teachers info </h2>
-            <p> Md.Jamaluddin (Head teacher)
+            <p> 1.Md.Jamaluddin (Head teacher)
 
-Md.Habibur Rahman(Assist.head teacher) </p>
+2.Md.Habibur Rahman(Assist.head teacher) </p>
         </li>
     </ul>
 </body>
