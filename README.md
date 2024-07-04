@@ -14,8 +14,9 @@
             <p>Don't miss the Science Fair on Friday! Prepare your projects.</p>
         </li>
         <li>
-            <h2>Parent-Teacher Meetings</h2>
-            <p>Meet your child's teachers next week. Sign up at the front office.</p>
+            <h2Teachers info</h2>
+            <p Md.Jamaluddin (Head teacher)
+Md.Habibur Rahman(Assist.head teacher) </p>
         </li>
     </ul>
 </body>
