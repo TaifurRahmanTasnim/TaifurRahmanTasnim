@@ -10,8 +10,8 @@
        <a href="https://ibb.co/mFVs5V6"><img src="https://i.ibb.co/rfRP2R4/Screenshot-20240704-204945-1.png" alt="Screenshot-20240704-204945-1" border="0"></a>
         </li>
         <li>
-            <h2>Upcoming Events</h2>
-            <p>Don't miss the Science Fair on Friday! Prepare your projects.</p>
+          <h2>Gallery</h2>
+            <p>ছবি</p>
         </li>
         <li>
  <h2> Teachers info </h2>
