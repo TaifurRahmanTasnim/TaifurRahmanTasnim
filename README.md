@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <h1>Important Announcements</h1>
+    <h2>Haripur Government Pilot High School Media Bulletin </h1>
     <ul>
         <li>
             <h2>Class Schedule Changes</h2>
