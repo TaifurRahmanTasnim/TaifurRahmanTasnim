@@ -7,7 +7,7 @@
 <ul>
         <li>
             <h2>Class Schedule </h2>
-       হজ
+       <a href="https://ibb.co/mFVs5V6"><img src="https://i.ibb.co/rfRP2R4/Screenshot-20240704-204945-1.png" alt="Screenshot-20240704-204945-1" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>die or dice</a><br />
         </li>
         <li>
             <h2>Upcoming Events</h2>
