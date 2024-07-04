@@ -1,6 +1,6 @@
+#School Bulletin 
 <!DOCTYPE html>
 <html>
-    <title>School Bulletin</title>
 <body>
     <h1>Important Announcements</h1>
     <ul>
