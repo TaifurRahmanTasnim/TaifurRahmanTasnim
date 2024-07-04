@@ -1,29 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
     <title>School Bulletin</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-        }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-            padding: 10px;
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-    </style>
-</head>
 <body>
     <h1>Important Announcements</h1>
     <ul>
