@@ -3,7 +3,7 @@
 <html>
 <body>
  <h2>Haripur Government Pilot High School Media Bulletin </h1>
-      <a> href="https://ibb.co/YbfcJ1r"><img src="https://i.ibb.co/3kSpVjJ/1720089635348.jpg" alt="1720089635348" border="0"></a> 
+      <a href="https://ibb.co/YbfcJ1r"><img src="https://i.ibb.co/3kSpVjJ/1720089635348.jpg" alt="1720089635348" border="0"></a> 
 <ul>
         <li>
             <h2>Class Schedule Changes</h2>
