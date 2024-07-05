@@ -11,10 +11,7 @@
         </li>
         <li>
           <h2>Gallery</h2>
-            <div>
-    <img src=<a href="https://i.ibb.co/3TNfGw5/Screenshot-20240704-214048-1.png" alt="Screenshot-20240704-214048-1" border="0"> School campus </a>
-    <img src=<a href="https://ibb.co/QbJQpC1"><img src="https://i.ibb.co/f1XFqnP/Screenshot-20240705-112325-1.png" alt="Screenshot-20240705-112325-1" border="0">On rally </a>
-</div>
+            
  </li>
         <li>
  <h2> Teachers info </h2>
