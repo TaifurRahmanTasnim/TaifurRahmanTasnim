@@ -22,7 +22,7 @@
 </style>
 <body>
 <div class="container">
-  <img src="photo1.jpg" class="photo">
+  <img src= "https://ibb.co/6XXxNKK"><img src="https://i.ibb.co/bbbZ744/Screenshot-20240704-214455-1.png" alt="Screenshot-20240704-214455-1" border="0"> School gate </a> class="photo">
   <img src="photo2.jpg" class="photo">
 </div>
 </body>
