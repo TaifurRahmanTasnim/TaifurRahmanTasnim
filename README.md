@@ -12,7 +12,7 @@
         <li>
           <h2>Gallery</h2>
             <div>
-    <img src="image1.jpg" style="float: left;">
+    <img src=<img src="https://i.ibb.co/3TNfGw5/Screenshot-20240704-214048-1.png" alt="Screenshot-20240704-214048-1" border="0"> School campus </a> style="float: left;">
     <img src="image2.jpg" style="float: left;">
 </div>
  </li>
