@@ -11,7 +11,22 @@
         </li>
         <li>
           <h2>Gallery</h2>
-            
+ <x>           
+<style>
+  .container {
+    display: flex;
+  }
+  .photo {
+    width: 50%;
+  }
+</style>
+<body>
+<div class="container">
+  <img src="photo1.jpg" class="photo">
+  <img src="photo2.jpg" class="photo">
+</div>
+</body>
+</x>
  </li>
         <li>
  <h2> Teachers info </h2>
