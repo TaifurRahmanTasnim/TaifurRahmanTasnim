@@ -11,8 +11,11 @@
         </li>
         <li>
           <h2>Gallery</h2>
-            <p>ছবি</p>
-        </li>
+            <div>
+    <img src="image1.jpg" style="float: left;">
+    <img src="image2.jpg" style="float: left;">
+</div>
+ </li>
         <li>
  <h2> Teachers info </h2>
             <p> 1.Md.Jamaluddin (Head teacher)
